@@ -8,6 +8,8 @@
 
 ### 🐛 Bug fixes
 
+- [IOS] Fix optional value handling for asset hash in ExpoUpdatesUpdate. ([#42436](https://github.com/expo/expo/pull/42436) by [@billysutomo](https://github.com/billysutomo))
+
 ### 💡 Others
 
 ## 55.0.7 — 2026-02-08
